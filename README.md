@@ -3,7 +3,7 @@
 
 <!-- ANIMAÇÃO DE TEXTO -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=Estudante+de+Ciëncia+da+Computação+%F0%9F%8E%93;Aprendendo+Java+%26+Linux+%F0%9F%92%BB;Apaixonado+por+Computa%C3%A7%C3%A3o+%E2%9A%A1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=Estudante+de+Ciência+da+Computação+%F0%9F%8E%93;Aprendendo+Java+%26+Linux+%F0%9F%92%BB;Apaixonado+por+Computa%C3%A7%C3%A3o+%E2%9A%A1" alt="Typing SVG" />
 </div>
 
 <br/>
@@ -13,14 +13,14 @@
 
 ```yaml
 name: Andrei Padilha
-role: Estudante de Ciência da Computação
+role: Estudante de Ciëncia da Compoutação
 location: Lages, Santa Catarina - Brasil 🇧🇷
 education: IFSC - Campus Lages
 currently_learning:
   - Java ☕
   - Linux 🐧
   - Python
-  - C
+  - C 
 interests:
   - Computação de baixo nível
   - Sistemas e redes
