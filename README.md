@@ -16,9 +16,8 @@ role: Computer Science Student
 location: Lages, Santa Catarina - Brazil 🇧🇷
 education: IFSC - Campus Lages
 currently_learning:
-  - Python 
-  - Linux
-  - C 
+  - Java ☕
+  - Linux 🐧
 interests:
   - Programming and development
   - Action RPGs in my free time 🎮
@@ -30,11 +29,13 @@ interests:
 
 <div align="center">
 
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
 
 </div>
 
@@ -45,13 +46,13 @@ interests:
 <div align="center">
 
 <a href="https://github.com/AndreiPadilha">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AndreiPadilha&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreiPadilha&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AndreiPadilha&theme=tokyonight" alt="GitHub Stats" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AndreiPadilha&theme=tokyonight" alt="Top Languages" />
 </a>
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AndreiPadilha&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AndreiPadilha&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub Streak" />
 
 </div>
 
