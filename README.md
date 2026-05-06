@@ -13,13 +13,14 @@
 
 ```yaml
 name: Andrei Padilha
-role: Estudante de Engenharia
+role: Estudante de Ciência da Computação
 location: Lages, Santa Catarina - Brasil 🇧🇷
 education: IFSC - Campus Lages
 currently_learning:
   - Java ☕
   - Linux 🐧
-  - Cálculo Numérico (Scilab)
+  - Python
+  - C
 interests:
   - Computação de baixo nível
   - Sistemas e redes
