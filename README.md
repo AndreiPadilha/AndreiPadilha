@@ -1,31 +1,31 @@
-<!-- BANNER SUPERIOR (onda) -->
+<!-- TOP BANNER (wave) -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=100&section=header" />
 
-<!-- ANIMAÇÃO DE TEXTO -->
+<!-- TYPING ANIMATION -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o+%F0%9F%8E%93;Aprendendo+Java+%26+Linux+%F0%9F%92%BB;Apaixonado+por+Computa%C3%A7%C3%A3o+%E2%9A%A1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=Computer+Science+Student+%F0%9F%8E%93;Learning+coding+%F0%9F%92%BB;Passionate+about+Computing+%E2%9A%A1" alt="Typing SVG" />
 </div>
 
 <br/>
 
-## 🚀 Sobre mim
+## 🚀 About me
 
 ```yaml
 name: Andrei Padilha
-role: Estudante de Ciência da Computação
-location: Lages, Santa Catarina - Brasil 🇧🇷
+role: Computer Science Student
+location: Lages, Santa Catarina - Brazil 🇧🇷
 education: IFSC - Campus Lages
 currently_learning:
   - Java ☕
   - Linux 🐧
 interests:
-  - Programação e desenvolvimento
-  - Action RPGs nas horas vagas 🎮
+  - Programming and development
+  - Action RPGs in my free time 🎮
 ```
 
 <br/>
 
-## 🛠️ Tecnologias & Ferramentas
+## 🛠️ Technologies & Tools
 
 <div align="center">
 
@@ -41,7 +41,7 @@ interests:
 
 <br/>
 
-## 📊 Estatísticas do GitHub
+## 📊 GitHub Stats
 
 <div align="center">
 
@@ -58,7 +58,7 @@ interests:
 
 <br/>
 
-## 📫 Contato
+## 📫 Contact
 
 <div align="center">
 
@@ -79,10 +79,10 @@ interests:
 
 <br/>
 
-<!-- VISUALIZAÇÕES -->
+<!-- PROFILE VIEWS -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=AndreiPadilha&label=Visualizações%20do%20perfil&color=58A6FF&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=AndreiPadilha&label=Profile%20views&color=58A6FF&style=flat" alt="Profile views" />
 </div>
 
-<!-- BANNER INFERIOR (onda) -->
+<!-- BOTTOM BANNER (wave) -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=100&section=footer" />
